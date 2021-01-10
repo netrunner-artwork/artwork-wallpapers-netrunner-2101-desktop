@@ -1,0 +1,14 @@
+Source: artwork-wallpapers-netrunner-21.01-desktop
+Section: misc
+Priority: optional
+Maintainer: Leszek Lesner <leszek@zevenos.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: https://github.com/netrunner-artwork/artwork-wallpapers-netrunner-2101-desktop
+
+Package: artwork-wallpapers-netrunner-21.01-desktop
+Architecture: all
+Depends: ${misc:Depends}
+Provides: artwork-wallpapers-netrunner-desktop
+Description: artwork for netrunner-desktop 21.01
+ This package contains wallpapers for Netrunner Desktop
